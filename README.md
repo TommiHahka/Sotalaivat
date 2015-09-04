@@ -1,1 +1,3 @@
 # Sotalaivat
+
+Upota vastustajan laivat!
