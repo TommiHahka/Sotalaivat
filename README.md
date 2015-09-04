@@ -1,3 +1,3 @@
 # Sotalaivat
 
-Upota vastustajan laivat!
+Upota vastustajan laivat ja pidä omasi pinnalla!
