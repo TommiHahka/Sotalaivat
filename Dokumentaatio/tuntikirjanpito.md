@@ -1,4 +1,5 @@
 ##Tuntikirjanpito##
 
-3.9.2015 1h Gitin käyttöönottoa
-4.9.2015 5h Gitin käyttöönottoa, Netbeansin alustamista, aihemäärittelyn kirjoittamista
+3.9.2015 1h Gitin kÃ¤yttÃ¶Ã¶nottoa
+
+4.9.2015 5h Gitin kÃ¤yttÃ¶Ã¶nottoa, Netbeansin alustamista, aihemÃ¤Ã¤rittelyn kirjoittamista
