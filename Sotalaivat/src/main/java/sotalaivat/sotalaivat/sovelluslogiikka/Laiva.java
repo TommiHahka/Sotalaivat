@@ -18,7 +18,7 @@ public class Laiva {
         } else if (pituus == 4) {
             this.alustyyppi = "Lentotukialus";
         } else {
-            System.out.println("Virheellinen laivan pituus");
+            System.out.println("Virheellinen laivan pituus!");
         }
     }
 
