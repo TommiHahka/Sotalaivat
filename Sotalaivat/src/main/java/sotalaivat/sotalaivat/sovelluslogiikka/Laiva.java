@@ -1,14 +1,33 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package sotalaivat.sotalaivat;
+package sotalaivat.sotalaivat.sovelluslogiikka;
 
-/**
- *
- * @author Tommi
- */
-public class NewClass {
+public class Laiva {
+
+    private int xKoordinaatti;
+    private int yKoordinaatti;
+    private int pituus;
+    private String alustyyppi;
+
+    public Laiva(int pituus) {
+        this.pituus = pituus;
+        if (pituus == 1) {
+            this.alustyyppi = "Sukellusvene";
+        } else if (pituus == 2) {
+            this.alustyyppi = "Hävittäjä";
+        } else if (pituus == 3) {
+            this.alustyyppi = "Risteilijä";
+        } else if (pituus == 4) {
+            this.alustyyppi = "Lentotukialus";
+        } else {
+            System.out.println("Virheellinen laivan pituus");
+        }
+    }
+
+    public String getAlustyyppi() {
+        return this.alustyyppi;
+    }
     
+    public int getPituus() {
+        return this.pituus;
+    }
+
 }
